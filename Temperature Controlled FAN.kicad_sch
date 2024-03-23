@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Temperature controlled Fan ")
+    (date "16.10.2022")
+    (rev "1.0")
+    (company "by Muxtar_Safarov")
+  )
+
   (lib_symbols
     (symbol "Amplifier_Operational:LM741" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 0 6.35 0)
